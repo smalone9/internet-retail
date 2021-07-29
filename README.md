@@ -1,2 +1,2 @@
-# internet-retail
+# e-commerce
 Module 13 Challenge: ORM Back End
